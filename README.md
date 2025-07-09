@@ -1,2 +1,2 @@
 # TixStant
-An nline Ticket stand 
+An online Ticket stand 
